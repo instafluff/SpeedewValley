@@ -1,0 +1,12 @@
+{
+  "Name": "SpeedewValley",
+  "Author": "Instafluff",
+  "Version": "1.6.0",
+  "Description": "The Stardew Valley Speedrun Mod!",
+  "UniqueID": "instafluff.speedewvalley",
+  "EntryDll": "SpeedewValley.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": [
+    "GitHub:instafluff/SpeedewValley"
+  ]
+}
